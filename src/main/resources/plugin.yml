@@ -1,0 +1,7 @@
+name: MagicCraft
+version: ${project.version}
+main: org.astemir.magiccraft.MagicCraft
+api-version: 1.16
+authors: [ Astemir ]
+commands:
+  itemgive:
